@@ -53,8 +53,3 @@ npm start
 ```
 
 You can download <a href="https://insomnia.rest/download">Insomnia</a> to manipulate/test the data with the GET or POST request.
-
-***
-## Meet the Developer
-
-
